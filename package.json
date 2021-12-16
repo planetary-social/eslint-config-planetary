@@ -1,5 +1,28 @@
 {
+  "name": "eslint-config-planetary",
+  "version": "1.0.0",
+  "main": "index.js",
   "dependencies": {
     "eslint-config-minlint": "^2.0.0"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/planetary-social/eslint-config-planetary.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config"
+  ],
+  "author": "Nick Thomas <nichoth@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/planetary-social/eslint-config-planetary/issues"
+  },
+  "homepage": "https://github.com/planetary-social/eslint-config-planetary#readme",
+  "description": ""
 }
