@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-planetary",
+  "name": "eslint-config-planetary-ssb",
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
