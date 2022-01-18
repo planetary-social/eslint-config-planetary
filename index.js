@@ -19,7 +19,8 @@ module.exports = {
         // "arrow-parens": [2, "as-needed"],
         "max-len": [2, {
             "code": 80,
-            "ignoreStrings": true
+            "ignoreStrings": true,
+            "ignoreComments": true
         }],
         "no-undef": [2]
     }
