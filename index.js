@@ -16,7 +16,7 @@ module.exports = {
         }],
         "no-unused-vars": [2, {"args": "none"}],
         "no-unreachable": [2],
-        "arrow-parens": [2, "as-needed"],
+        // "arrow-parens": [2, "as-needed"],
         "max-len": [2, {
             "code": 80,
             "ignoreStrings": true
